@@ -33,4 +33,3 @@ The analysis was performed using Python, Pandas, Matplotlib, and Jupyter Noteboo
 
 ## link Olist Logistics Audit Dashboard
 
- https://datastudio.google.com/s/in9ZWpWtomk

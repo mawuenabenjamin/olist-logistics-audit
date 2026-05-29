@@ -53,13 +53,13 @@ Regional analysis also revealed that some states experienced much higher delay r
 
 ## Project Links
 
-**Dashboard:**
-https://datastudio.google.com/s/in9ZWpWtomk
+Dashboard:
+https://datastudio.google.com/reporting/38ed187b-0467-4263-9c18-92f3031ffba4
 
-**Notebook (.ipynb):**
+Notebook (.ipynb):
 https://github.com/mawuenabenjamin/olist-logistics-audit/blob/main/notebooks/olist_logistics_audit.ipynb
 
-**Notebook HTML Export:**
+Notebook HTML Export:
 https://github.com/mawuenabenjamin/olist-logistics-audit/blob/main/notebooks/olist_logistics_audit.html
 
 ## Presentation:

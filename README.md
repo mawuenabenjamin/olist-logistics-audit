@@ -63,7 +63,7 @@ https://github.com/mawuenabenjamin/olist-logistics-audit/blob/main/notebooks/oli
 https://github.com/mawuenabenjamin/olist-logistics-audit/blob/main/notebooks/olist_logistics_audit.html
 
 ## Presentation:
-https://github.com/mawuenabenjamin/olist-logistics-audit/blob/main/presentation/Olist_Logistics_Audit_Presentation.pptx
+https://docs.google.com/presentation/d/1HU37N6WjQkMt1-aurR3yCeYTvHWbP_Py/edit?usp=sharing&ouid=100324296361723372259&rtpof=true&sd=true
 
 
 
